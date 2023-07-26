@@ -1,0 +1,9 @@
+* chameleon
+
+Configuration management library for Common Lisp with profile support.
+
+|---------+-----------------------------------------------------------------------------|
+| source  | file:https://github.com/sheepduke/chameleon/archive/refs/tags/v2.1.1.tar.gz |
+| version | 2.1.1                                                                       |
+| systems | chameleon                                                                   |
+|---------+-----------------------------------------------------------------------------|
